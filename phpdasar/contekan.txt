@@ -1,0 +1,189 @@
+stuktur
+funtion 
+url ; php.net/manual/en/funref.php
+variabel : $
+
+//build-in php
+sting
+.strlen()
+.strcmp()
+.explode()
+.htmlspecialchars()
+
+utility 
+.var_dump()
+.isset()
+.empty()
+.die() untuk memberhentikan program kita
+.sleep() untuk memberikan sementara
+
+//user-defined function
+yaitu fungsi yang kita buat sendiri
+
+
+
+pertemuan 5
+array
+array numerik dan
+array asosiasi
+
+
+
+pertemuan 6 
+assosiatif pada array
+
+
+
+pertemuan 7
+Superglobals 
+.$_GET
+.$_POST
+.$_Request
+.$_session
+.$_cookie
+.$_server
+.$_env
+valiabel Scope
+GET & POST 
+login
+buat snippet di visual studio code
+
+
+
+
+PERTEMUAN 8
+Database & MySql
+Data : Retefresentasi data dunia nyata
+Contoh : buku (judul, pengerang, penerbit, harga jual dll..),
+         mahasiswa (nama, nim, email, jurusan, dll).
+dlm pemrograman menyimpan dan mengelola data
+Apa itu Database : 
+DBMS : 
+Primary Key adalah "Sebuah data yang dapat memperesentasikan satu baris record secara unik"
+Istilah sering muncul dlm Database :
+.Field/Colom
+.Row/record
+.Key 
+    .Primary Key
+    .Foreign Key
+.Auto Increment
+.Relationship
+.Normalization
+
+
+
+PERTEMUAN 9
+PHP & MySql termasuk CREATE (CRUD)
+cara untuk menghubungkan bisa dgn berikut:
+    .Ektensi MySql
+    .Ektensi MySqli // kali ini menggukan MySqli
+    .PDO (PHP Data Object)
+
+
+
+PERTEMUAN 10
+Menamah dan mengapus (CREATE/INSERT dan DELETE)
+CRUD 
+    .CREATE / INSERT (Tambahkan data ke database)
+    .READ   petemuan 9 ( setelah koneksi ke database maka data akan ditampilkan 
+                        dlm bentuk table untuk hl admin )
+    .UPDATE 
+    .DELETE (menghapus data didalam database)
+
+
+
+PERTEMUAN 11
+UPDATE (CRUD)
+
+
+
+
+PERTEMUAN 12
+READ / SERCING / mencari (CRUD)
+
+
+
+PERTEMUAN 13
+UPLOAD 
+File Handling
+    .<input type='file'...
+    .enctype 
+    .$_FILES
+    .move_uploaded_file
+
+
+
+
+
+
+PERTEMUAN 14
+REGISTRASI 
+LOGIN SYSTEM 
+    .Registrasi
+    .Login
+    .Session  
+    .Cookie // untuk ingat saya
+REGISTRASI 
+    .tabel 'user'
+    .Enkripsi Password
+user : 123
+admin : 321
+
+
+PERTEMUAN 15
+LOGIN
+
+
+PERTEMUAN 16 
+Session // untuk user tidak mengakses seblum login terlebih dahulu
+    .Session_start()
+    .$_session
+LOGOUT
+
+
+PERTEMUAN 17
+MENAMBAKAN FITURE REMEMBER ME
+COOIKIE "informasi disimpan di BROWSER / CLIENT" 
+    .mengenali user
+    .shopping cart
+    .personalisasi
+
+
+ektensi cookie edit 
+setcookie()
+$_COOKIE
+
+
+
+PERTEMUAN 18
+PAGINATION (MENAMBAHKAN TOMBOL UNTUK HALAMAN BERIKUTNYA)
+MENGGUNAKAN (LIMIT) MySql
+PAHAM LOGIKA
+
+
+PERTEMUAN 19
+LIVE SEARCH
+MENGGUNAKAN AJAX (Asynchronous Javascript and XML)
+XMLHttpRequest()
+AJAX 
+    .Javascript Dasar
+    .DOM
+Copy dari pertemuan 17
+addEventListener() Javascript
+
+PERTEMUAN 20 
+LIVE SEARCH 
+menggunakan JQUERY
+
+PERTEMUAN 21
+PHP TO PDF
+PHP REPORTING
+MEMBUAT PDF
+FITUR bawaan BROWSER
+Libary PHP
+    .FPDF
+    .mPDF
+    .DOMPDF
+    ..
+
+

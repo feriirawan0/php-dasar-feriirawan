@@ -1,0 +1,9 @@
+Nama Barang   |      Kategori   |     Stock    |    HrgSatuan    |    Masa Pakai   |    Lokasi Simpan    |    Nilai Persediaan    |    Kode Barang    | Tanggal Expired  
+                                                                                                            
+ Jumlah Persediaan : 0
+Nama Barang   |      Kategori   |     Stock    |    HrgSatuan    |    Masa Pakai   |    Lokasi Simpan    |    Nilai Persediaan    |    Kode Barang    | Tanggal Expired  
+                                                                                                            
+ Jumlah Persediaan : 0
+Nama Barang   |      Kategori   |     Stock    |    HrgSatuan    |    Masa Pakai   |    Lokasi Simpan    |    Nilai Persediaan    |    Kode Barang    | Tanggal Expired  
+                                                                                                            
+ Jumlah Persediaan : 0
